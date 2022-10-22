@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansbng
-- 👀 I’m interested in data, social impact, and learning!
-- 🌱 I’m currently learning Python and webdev.
+- 👀 I’m interested in lots of things.
+- 🌱 I’m currently learning stuff.
 - 📫 mhbachnguyen@college.harvard.edu
 
 <!---
